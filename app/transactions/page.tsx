@@ -21,7 +21,3 @@ const TransactionsPage = async () => {
 };
 
 export default TransactionsPage;
-
-// {transactions.map((transaction) => (
-//   <div key={transaction.id}>{transaction.name}</div>
-// ))}
